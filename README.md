@@ -1,5 +1,3 @@
-# marabuuu
-
 - 👋 Hi, I'm Mara.
 - 🚀 I'm interested in Bio-image Analysis, Science Communication and Interdisciplinarity in General.
 - ✍️ I'm publishing blog posts on [FocalPlane](https://focalplane.biologists.com/author/marabuuu/) and our [BiAPoL blog](https://github.com/BiAPoL/blog).
