@@ -7,4 +7,5 @@
   * [Annotating 3D images in napari](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
   * [Quality assurance of segmentation results](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
   * [Feature extraction in napari](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
+  * [Tracking in napari](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
 - 🌻 Enjoy reading and coding! 
