@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Mara.
-- 🚀 I'm interested in Bio-image Analysis, Science Communication and Interdisciplinarity in General.
-- ✍️ I'm publishing blog posts on [FocalPlane](https://focalplane.biologists.com/author/marabuuu/) and our [BiAPoL blog](https://github.com/BiAPoL/blog).
+- 🚀 I'm a master student on the intersection between biology and computer science. 
+- :microscope:  Bio-image Analysis, Science communication and Neuroscience are my special interests.
+- ✍️ I'm publishing blog posts on [FocalPlane](https://focalplane.biologists.com/author/marabuuu/) and the [BiAPoL blog](https://github.com/BiAPoL/blog).
   Here is a list of blog posts I already wrote:
   * [Getting started with Mambaforge and Python ](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
   * [Rescaling images and pixel (an)isotropy](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
@@ -8,4 +9,5 @@
   * [Quality assurance of segmentation results](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
   * [Feature extraction in napari](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
   * [Tracking in napari](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
+  * [How to write a bug report](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
 - 🌻 Enjoy reading and coding! 
