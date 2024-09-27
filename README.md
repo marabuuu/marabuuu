@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mara.
 - 🚀 I'm a master student on the intersection between biology and computer science. 
-- :microscope:  Bio-image Analysis, Science communication and Neuroscience are my special interests.
+- :microscope: Enthusiast in the field of Bio-image Analysis, Science communication and Neuroscience.
 - ✍️ I'm publishing blog posts on [FocalPlane](https://focalplane.biologists.com/author/marabuuu/) and the [BiAPoL blog](https://github.com/BiAPoL/blog).
   Here is a list of blog posts I already wrote:
   
