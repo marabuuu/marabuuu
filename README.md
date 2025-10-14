@@ -7,6 +7,7 @@
   _General_
   * [Getting started with Mambaforge and Python ](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
   * [How to write a bug report](https://focalplane.biologists.com/2024/04/03/how-to-write-a-bug-report/)
+  * [From Click to Code: Reproducibility in Bio-image Analysis](https://focalplane.biologists.com/2025/08/05/from-click-to-code-reproducibility-in-bio-image-analysis/)
  
   _Bio-image Analysis in Napari_
   * [Rescaling images and pixel (an)isotropy](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
