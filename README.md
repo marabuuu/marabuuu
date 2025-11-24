@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Mara.
-- 🚀 I'm a master student on the intersection between biology and computer science. 
-- :microscope: Enthusiastic in the field of Bio-image Analysis and Science communication.
+- 🚀 I'm a Master Student at TU Dresden and my study program is called Computational Modeling and Simulation (CMS) in Life Science.
+- Furthermore, I am working as a research assistant at ScaDS.AI where our group designs training materials and hosts trainings about bio-image analysis, LLMs and research data management at Leipzig University.
+- :microscope: Biomedical computer vision, LLMs and Science Communication are my main focus.
 - ✍️ I'm publishing blog posts on [FocalPlane](https://focalplane.biologists.com/author/marabuuu/) and the [BiAPoL blog](https://github.com/BiAPoL/blog).
   Here is a list of blog posts I already wrote:
   
@@ -18,4 +19,5 @@
  
   _Bio-image Analysis and AI_
   * [Prompt Engineering in Bio-image Analysis](https://focalplane.biologists.com/2024/07/18/prompt-engineering-in-bio-image-analysis/)
+    
 - 🌻 Enjoy reading and coding! 
